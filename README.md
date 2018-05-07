@@ -51,7 +51,7 @@ Output example:
 
 **Todo**
 
-Unicoder does not include per-character descriptions from [UnicodeData.txt](ftp://ftp.unicode.org/Public/UNIDATA/UnicodeData.txt). It also does not generate final rendered characters in languages that combine glyphs into other glyphs, eg. Arabic.
+Unicoder does not include per-character descriptions from [UnicodeData.txt](ftp://ftp.unicode.org/Public/UNIDATA/UnicodeData.txt) (ftp://ftp.unicode.org/Public/UNIDATA/UnicodeData.txt). It also does not generate final rendered characters in languages that combine glyphs into other glyphs, eg. Arabic.
 
 **Author**
 
